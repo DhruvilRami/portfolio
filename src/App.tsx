@@ -45,13 +45,6 @@ function App() {
       gradient: "from-green-500 to-teal-600"
     },
     {
-      icon: <BarChart3 className="w-6 h-6" />,
-      title: "2020 Presidential Election Tweet Analysis",
-      description: "Conducted sentiment and trend analysis on over 100,000 tweets using Python, MongoDB, and NLP techniques (TextBlob, VADER). Achieved 90% sentiment classification accuracy and developed Logistic Regression and Random Forest models to predict tweet sources and voter intent.",
-      link: "https://github.com/DhruvilRami",
-      gradient: "from-green-500 to-teal-600"
-    },
-    {
       icon: <Bot className="w-6 h-6" />,
       title: "DevLink – Developer Collaboration Platform",
       description: "A full-stack web application built with Python (Flask), React, and MongoDB that enables developers to create profiles, showcase projects, and connect with peers. Features include user authentication (JWT), project uploads, messaging, and RESTful APIs for backend operations.",
