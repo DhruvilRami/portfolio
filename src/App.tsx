@@ -206,7 +206,7 @@ function App() {
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-300 mb-8 font-light">
-              Recent Graduate • Software Developer • Problem Solver
+              Recent Graduate • Software Developer • Junior DBA • Problem Solver
             </p>
 
             <div className="flex flex-wrap justify-center gap-4">
