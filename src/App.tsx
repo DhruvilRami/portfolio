@@ -247,7 +247,7 @@ function App() {
                 
                 <div className="text-gray-300 leading-relaxed space-y-4">
                   <p>
-                    Hi, I'm <span className="text-blue-400 font-semibold">Dhruvil Rami</span>, a passionate and motivated Computer Science graduate with a Master's degree from Cleveland State University. I am currently seeking full-time opportunities as a Software Engineer or Python Developer, where I can apply my technical expertise to create impactful software solutions.
+                    Hi, I'm <span className="text-blue-400 font-semibold">Dhruvil Rami</span>, a passionate and motivated Computer Science graduate with a Master's degree from Cleveland State University. I am currently seeking full-time opportunities as a Junior DBA or Python Developer, where I can apply my technical expertise to create impactful software solutions.
                   </p>
                   <p>
                     During my Master's, I worked on a <span className="text-purple-400 font-semibold">Data Analysis project</span> focused on sentiment analysis, where I built and evaluated two machine learning models to uncover insights and improve predictive accuracy.
@@ -370,7 +370,7 @@ function App() {
 
         {/* Footer */}
         <footer className="text-center py-8 text-gray-400 border-t border-white/10">
-          <p>&copy; 2025 Dhruvil Rami. Built with React & Tailwind CSS.</p>
+          <p>&copy; 2025 Dhruvil Rami.</p>
         </footer>
       </div>
     </div>
